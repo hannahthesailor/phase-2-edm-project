@@ -1,0 +1,101 @@
+{
+    "artists": [
+    {
+        "id": 1,
+        "name": "GRiZ",
+        "genre": "ElectroFunk",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6116ac479b5e96f94fc7bdbc/GRiZ-/960x0.jpg",
+        "spotify": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut?si=2v-yl5E7QJmlyZoMbUsfLg",
+        "about": ""
+    },
+    {
+        "id": 2,
+        "name": "Flume",
+        "genre": "Electronic Future Bass",
+        "image": "https://www.billboard.com/wp-content/uploads/2022/05/Flume-2022-cr-Zac-Bayly-1548.jpg",
+        "spotify": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer?si=rbx152GURf6WKcCWOm2wvg",
+        "about": ""
+    },
+    {
+        "id": 3,
+        "name": "RL Grime",
+        "genre": "Trap",
+        "image": "https://milkandcookiesfestival.com/wp-content/uploads/2021/06/grime.jpg",
+        "spotify": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP?si=O_8foOhbTd-HSlBKhGyWAg",
+        "about": ""
+    },
+    {
+        "id": 4,
+        "name": "Rezz",
+        "genre": "Midtempo Bass",
+        "image": "https://www.billboard.com/wp-content/uploads/2021/11/rezz-press-2021-cr-Justin-Broadbent-billboard-1548.jpg",
+        "spotify": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw?si=8HFHzzWiTWKgqzGkKJeA6w",
+        "about": ""
+    },
+    {
+        "id": 5,
+        "name": "CloZee",
+        "genre": "Space Bass",
+        "image": "https://www.beatportal.com/wp-content/uploads/2023/04/CloZee-Beatport-2-1200x675.jpg",
+        "spotify": "https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr?si=sifkGC86Qcu3wFd4GBkVqQ",
+        "about": ""
+    },
+    {
+        "id": 6,
+        "name": "Skrillex",
+        "genre": "Dubstep",
+        "image": "https://www.nme.com/wp-content/uploads/2023/01/Skrillex2-press-2023.jpeg",
+        "spotify": "",
+        "about": ""
+    },
+    {
+        "id": 7,
+        "name": "Ganja White Night",
+        "genre":"Dubstep",
+        "image":"https://edm.com/.image/t_share/MTgwMDY0ODA1NDkzNjc5MjI2/nkicsn14go2zpnsxi6e8.jpg",
+        "spotify": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX?si=cpWBvDTLQlOIcJRHLSdgRw",
+        "about": ""
+    },
+    {
+        "id": 8,
+        "name": "FRED AGAIN..",
+        "genre": "Deep House",
+        "image": "https://thissongissick.com/wp-content/uploads/2022/09/fred-again-750x422.jpeg",
+        "spotify": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe?si=CZ5EYL8KTdmLAMJzeT5Oig",
+        "about": ""
+    },
+    {
+        "id": 9,
+        "name": "Zeds Dead",
+        "genre": "Dubstep",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6054f1c0b6cfdda11c98638c/Zeds-Dead-/960x0.jpg",
+        "spotify": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh?si=IJRkbKyQRbKHsIXZpg0NIQ",
+        "about": ""
+    },
+    {
+        "id": 10,
+        "name": "Odesza",
+        "genre": "Electronic",
+        "image": "https://edm.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_xy_center%2Cq_auto:good%2Cw_768%2Cx_765%2Cy_275/MTg1NjM3MzcwNjcyOTgxMzk2/odesza-2018-press-photo-cr-shore-fire-media-billboard-1548.jpg",
+        "spotify": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw?si=5EJrNmPERJqzfk8sn7ZCBg",
+        "about": ""
+    },
+    {
+        "id": 11,
+        "name": "Felix Cartal",
+        "genre": "Dance",
+        "image": "https://www.billboard.com/wp-content/uploads/media/Felix-Cartal-2018-cr-Trevor-Brady-billboard-1548.jpg",
+        "spotify": "https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v?si=RNHPCxOzRjqWrybBKSNQag",
+        "about": ""
+    },
+    {
+        "id": 12,
+        "name": "John Summit",
+        "genre": "House",
+        "image": "https://static1.squarespace.com/static/5ce6eaeb3635390001e51764/t/614abbabd1f32711ec686b3d/1632287659697/John+Summit+-+House+Music+DJ+-+Profile+Photo++John+Summit+Press+Photo+%284%29.jpg?",
+        "spotify": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205?si=XrIo3ry4Sqi-9M7hEYoWXA",
+        "about": ""
+    }
+    
+    ]
+}
