@@ -2,6 +2,7 @@ import React from "react";
 import { useOutletContext } from "react-router-dom";
 import Artist from "./Artist";
 import PropTypes from "prop-types";
+import "../ArtistsList.css"; // Import the external CSS file
 
 function ArtistsList() {
   const context = useOutletContext();
@@ -12,9 +13,11 @@ function ArtistsList() {
   ));
 
   return (
-    <ul style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'space-between' }}>
-      {artistsComponents}
-    </ul>
+    <div>
+      <ul className="artist-list">
+        {artistsComponents}
+      </ul>
+    </div>
   );
 }
 

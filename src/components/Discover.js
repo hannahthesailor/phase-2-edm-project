@@ -17,7 +17,7 @@ function Discover() {
       <h3>
         <iframe
           style={{ borderRadius: '12px' }}
-          src="https://open.spotify.com/embed/playlist/1Fp51jGDTWAOWzcxEG0GMQ?utm_source=generator"
+          src="https://open.spotify.com/embed/playlist/2Uyovk67xN22XhiSIReWpK?utm_source=generator"
           width="100%"
           height="352"
           frameBorder="0"

@@ -4,10 +4,14 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
+    list-style-type: none; /* Remove the default bullet points */
+    padding: 0; /* Remove default padding */
+    margin: 0; /* Remove default margin */
   }
+  
   
   .artist {
     flex-basis: 30%;
-    margin-bottom: 20px;
+    margin-bottom: 100px;
   }
   
